@@ -4,6 +4,14 @@
 
 Claude is Anthropic's family of large language models known for safety, accuracy, and helpful, harmless, and honest responses. This list covers everything from official APIs to community projects built with Claude.
 
+## What's New (January 2026)
+
+- **Claude Opus 4.5** - Anthropic's most intelligent model, best for coding and agents
+- **Hybrid Reasoning** - Adjustable effort levels for balancing speed vs depth
+- **Tool Search** - Dynamically discover tools from large libraries
+- **Microsoft Foundry** - Claude now available on Azure
+- **67% Price Reduction** - Opus pricing significantly reduced
+
 ## Contents
 
 - [Official Resources](#official-resources)
@@ -45,38 +53,43 @@ Claude is Anthropic's family of large language models known for safety, accuracy
 
 ## Models & Capabilities
 
-### Current Models
+### Current Models (January 2026)
 
-- **Claude 3.5 Sonnet** - Latest flagship model
-  - Best balance of intelligence and speed
+- **Claude Opus 4.5** - Most intelligent model (NEW)
+  - Best-in-class for coding, agents, and computer use
+  - 80.9% on SWE-bench Verified
+  - 66.3% on OSWorld (computer use)
+  - Hybrid reasoning with adjustable effort levels
+  - 200K context window
+  - $5/$25 per 1M tokens (input/output)
+
+- **Claude 3.5 Sonnet** - Best balance model
+  - Excellent speed and intelligence
   - 200K context window
   - Vision capabilities
   - Advanced reasoning and coding
 
-- **Claude 3 Opus** - Most capable model
-  - Highest intelligence for complex tasks
-  - 200K context window
-  - Superior at analysis and research
-  - Best for nuanced understanding
-
-- **Claude 3 Haiku** - Fastest model
-  - Quick responses
-  - Cost-effective
-  - 200K context window
-  - Good for simple tasks
-
-- **Claude 3.5 Haiku** - Enhanced fast model
+- **Claude 3.5 Haiku** - Fast model
   - Improved speed and intelligence
   - Better code generation
   - Vision support
-  - Latest fast model
+  - Cost-effective for simple tasks
+
+- **Claude 3 Haiku** - Economy model
+  - Quick responses
+  - Most cost-effective
+  - 200K context window
+  - Good for simple tasks
 
 ### Key Features
 
-- **Long Context**: 200,000 token context window (≈150,000 words)
+- **Long Context**: 200,000 token context window (around 150,000 words)
 - **Vision**: Analyze images, charts, diagrams, and screenshots
 - **Artifacts**: Generate and iterate on content in separate windows
-- **Tool Use**: Function calling and computer use capabilities
+- **Tool Use**: Function calling, computer use, and tool search capabilities
+- **Hybrid Reasoning**: Instant responses or extended thinking (Opus 4.5)
+- **Agentic Workflows**: Multi-step planning, autonomous debugging, multi-agent setups
+- **Enterprise Features**: Slides, spreadsheets, docs generation with sustained quality
 - **Safety**: Constitutional AI for harmless and honest responses
 - **Multilingual**: Supports multiple languages with high quality
 
