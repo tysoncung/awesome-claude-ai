@@ -122,6 +122,7 @@ Claude is Anthropic's family of large language models known for safety, accuracy
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - Code examples and guides
 - [Claude Rate Limiter](https://github.com/anthropics/anthropic-sdk-python/tree/main/examples) - Rate limiting examples
 - [Token Counter](https://github.com/anthropics/anthropic-tokenizer) - Count tokens for Claude models
+- [CoderPlan](https://coderplan.ai/) - OpenAI-compatible LLM API gateway providing access to Claude (Opus/Sonnet/Haiku), GPT, Gemini, and 20+ models. Pay-per-use at ~0.7x official pricing. Compatible with Claude Code, Codex CLI, Cursor, Cline.
 
 ## Developer Tools
 
