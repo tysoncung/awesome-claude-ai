@@ -249,6 +249,11 @@ Claude is Anthropic's family of large language models known for safety, accuracy
   - Brand voice
   - Multiple formats
 
+- [CreatorSkills](https://creatorskills.co) - AI skills marketplace for content creators
+  - 30+ downloadable skills for YouTube scripting, sponsorship analysis, audience growth
+  - Built for Claude and ChatGPT
+  - Downloadable skill files for Claude Code and Projects
+
 ### Research & Analysis
 
 - [Perplexity](https://www.perplexity.ai/) - AI search engine
