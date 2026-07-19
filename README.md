@@ -222,6 +222,7 @@ Claude is Anthropic's family of large language models known for safety, accuracy
   - Multiple files
   - Undo/redo
 
+- [DarkMoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentester (MCP host) built on Claude, orchestrating 80+ offensive-security tools
 - [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Build apps from prompts
   - Claude support
   - Full project generation
