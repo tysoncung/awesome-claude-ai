@@ -175,6 +175,11 @@ Claude is Anthropic's family of large language models known for safety, accuracy
   - Export conversations
   - Custom prompts
 
+- [Folders & Bulk Delete for Claude](https://sidewing.app) - Organize Claude.ai chat history
+  - Folders, pins, and instant title search
+  - Bulk select and batch delete
+  - Runs locally, no chat data collected
+
 - [Claude to Markdown](https://github.com/bartolli/claude-to-markdown) - Export Claude conversations
   - Format preservation
   - Code blocks
