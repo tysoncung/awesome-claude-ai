@@ -122,6 +122,7 @@ Claude is Anthropic's family of large language models known for safety, accuracy
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - Code examples and guides
 - [Claude Rate Limiter](https://github.com/anthropics/anthropic-sdk-python/tree/main/examples) - Rate limiting examples
 - [Token Counter](https://github.com/anthropics/anthropic-tokenizer) - Count tokens for Claude models
+- [UberLLM](https://uberllm.dev) - Paid API marketplace with an Anthropic-compatible endpoint for Claude models (also OpenAI-compatible); works with the Anthropic SDK and Claude Code
 
 ## Developer Tools
 
